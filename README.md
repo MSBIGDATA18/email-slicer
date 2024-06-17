@@ -3,7 +3,7 @@
 # Step 1: Collect User Input
 Use the input() function to prompt the user to enter an email address. This function retrieves user input as a string.
 
-Step 2: Validate the Email Address
+# Step 2: Validate the Email Address
 Before splitting the email address, validate its format:
 
 Ensure the presence of "@" character using the in operator or .find() method.
