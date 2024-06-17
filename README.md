@@ -29,7 +29,7 @@
 
 Following these steps allows you to create an "Email Slicer" program in Python. This program will prompt the user for an email address, validate its format, split it into username and domain parts, display the results, and provide options for further processing or terminating the program.
 
-Methods Used:
+# Methods Used:
 .split(): Splits a string into a list based on a delimiter.
 .index(): Finds the index of a substring within a string.
 Slicing: Extracts substrings based on indices.
