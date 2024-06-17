@@ -1,6 +1,6 @@
 # email-slicer
 
-Step 1: Collect User Input
+# Step 1: Collect User Input
 Use the input() function to prompt the user to enter an email address. This function retrieves user input as a string.
 
 Step 2: Validate the Email Address
